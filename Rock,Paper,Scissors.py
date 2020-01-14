@@ -1,7 +1,7 @@
+### "Rock", "Paper", "Scissors", "Lizard", "Spock" ###
+# By Emmanuel. O
+
 import random
-
-### "Rock", "Paper", "Scissors", "Lizard", "Spock" to numbers ###
-
 # 0 - rock
 # 1 - Spock
 # 2 - paper
