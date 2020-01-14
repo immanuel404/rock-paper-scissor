@@ -2,6 +2,7 @@
 # By Emmanuel. O
 
 import random
+
 # 0 - rock
 # 1 - Spock
 # 2 - paper
