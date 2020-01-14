@@ -2,5 +2,6 @@
 
 A game of rock, paper, scissors...lizard, spock
 
-link to game: http://www.codeskulptor.org/#user47_rSRf6owpomQZbpZ.py
-#use rpsls() Function in Source code to Select player
+Online link to game: http://www.codeskulptor.org/#user47_OGQ3InSXfJ_2.py
+
+#Use rpsls() Function in Source code to Select Player
